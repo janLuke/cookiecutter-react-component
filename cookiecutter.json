@@ -1,0 +1,8 @@
+{
+  "component_name": "MyComponent",
+  "component_type": ["functional", "class"],
+  "use_proptypes": "y",
+  "style_type": ["css", "scss", "sass", "module.css", "module.scss", "module.sass"],
+  "include_index_file": "y",
+  "include_test_file": "n"
+}

@@ -1,0 +1,4 @@
+
+.{{ cookiecutter.component_name }} {
+
+}
